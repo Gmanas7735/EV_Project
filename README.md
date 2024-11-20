@@ -20,3 +20,6 @@ https://github.com/Gmanas7735/EV_Project/blob/main/Electric_Vehicle_Population_D
 -	Made sure data is consistent and clean with respect to data type, date format and values used.
 -	Remove unwanted fields/columns.
 -	Add some measure  help for using visualization like:-(Total EV, % of BEV, % of PHEV, Average electric range)
+
+##Dashboard
+![EV Project](https://github.com/user-attachments/assets/8166f89c-3876-436c-9c8d-6ca7cce4b4ca)
