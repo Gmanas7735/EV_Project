@@ -1,5 +1,5 @@
 
-Here’s a concise description tailored for a GitHub README file:
+Here’s a concise description tailored for a GitHub README file: 
 
 Electric Vehicle (EV) Project
 This repository focuses on the development of sustainable and efficient electric vehicles (EVs) to promote eco-friendly transportation. The project aims to:
