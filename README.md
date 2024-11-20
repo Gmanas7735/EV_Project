@@ -13,7 +13,7 @@ https://github.com/Gmanas7735/EV_Project/blob/main/Electric_Vehicle_Population_D
 -	Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
 -	Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
 
--	Dashboard Interaction (https://github.com/Gmanas7735/EV_Project/blob/main/EV%20Project.png
+-	Dashboard Interaction https://github.com/Gmanas7735/EV_Project/blob/main/EV%20Project.png
 
 ##Process
 -	Verify data for any missing values and anomalies, and sort out the same using power query.
