@@ -2,7 +2,8 @@
 ## Project Objective
 The aim of this project is to analyze electric vehicle (EV) adoption trends, usage patterns, and performance metrics to support data-driven decision-making for stakeholders, including manufacturers, policymakers, and consumers.
 
-## Dataset Used [https://github.com/Gmanas7735/EV_Project/blob/main/Electric_Vehicle_Population_Data.xlsx](https://github.com/Gmanas7735/EV_Project/blob/main/Electric_Vehicle_Population_Data.xlsx)</a>
+## Dataset Used 
+https://github.com/Gmanas7735/EV_Project/blob/main/Electric_Vehicle_Population_Data.xlsx
 
 ## Questions (KPIs)
 -	Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
